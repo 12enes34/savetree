@@ -60,7 +60,7 @@ Kitap takas etmek isteyen insanların birbirleriyle kitaplarını takas edebilec
 ## Ekran Görüntüleri
 
 ![Anasayfa](link-to-homepage-screenshot.png)
-![Kayıt Sayfası](link-to-registration-page-screenshot.png)
+![Kayıt Sayfası]([link-to-registration-page-screenshot.png](https://github.com/[12enes34]/[savetree]/blob/[branch]/Screenshot%20%2024-06-21%20%022755.png?raw=true))
 
 ## Katkıda Bulunun
 

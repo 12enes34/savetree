@@ -1,6 +1,7 @@
 # SaveTree - Kitap Takas Web Projesi
 
-![Logo]([link-to-your-logo.png](https://github.com/12enes34/savetree/blob/main/logo.ico))
+![logo](https://github.com/12enes34/savetree/assets/102800363/af853869-224f-42ed-b934-65bc3bbb15f4)
+
 
 ## Proje Sahibi
 **Enes Ünver**  
@@ -59,12 +60,12 @@ Kitap takas etmek isteyen insanların birbirleriyle kitaplarını takas edebilec
 
 ## Ekran Görüntüleri
 
-![Anasayfa](link-to-homepage-screenshot.png)
-![Kayıt Sayfası]([link-to-registration-page-screenshot.png](https://github.com/[12enes34]/[savetree]/blob/[branch]/Screenshot%20%2024-06-21%20%022755.png?raw=true))
+![Screenshot 2024-06-21 022755](https://github.com/12enes34/savetree/assets/102800363/e35f00ee-da34-4e3e-9fe1-e55d0724f5f3)
+![Screenshot 2024-06-21 022849](https://github.com/12enes34/savetree/assets/102800363/5b56e624-c161-4cb5-bc97-5788a6bf371d)
+![Screenshot 2024-06-21 022945](https://github.com/12enes34/savetree/assets/102800363/9306c434-5424-4bc8-9903-94816fefa5ee)
+![Screenshot 2024-06-21 023024](https://github.com/12enes34/savetree/assets/102800363/dbaa2425-8140-4b27-8cb0-ce2e24f600c9)
 
-## Katkıda Bulunun
 
-Katkıda bulunmak için lütfen bir pull request gönderin veya bir issue açın.
 
 ## Lisans
 

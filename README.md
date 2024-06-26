@@ -1,6 +1,6 @@
 # SaveTree - Kitap Takas Web Projesi
 
-![Logo](link-to-your-logo.png)
+![Logo]([link-to-your-logo.png](https://github.com/12enes34/savetree/blob/main/logo.ico))
 
 ## Proje Sahibi
 **Enes Ünver**  
